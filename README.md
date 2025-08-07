@@ -4,8 +4,7 @@
 
 <h1 align="center">Hey 👋, I'm Mausam Modz</h1>
 <p align="center">
-  🧰 Tool Maker | 🐧 Termux Dev | 🤖 Telegram Bot Crafter | 💻 Blogger Theme Builder
-</p>
+  🧰 Tool Maker | 🐧 Termux Dev | 🤖 Telegram Bot Crafter</p>
 
 <p align="center">
   <a href="https://github.com/MausamModz">
