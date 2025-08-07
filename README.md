@@ -48,9 +48,9 @@ I love turning ideas into powerful tools.
 
 ## 📬 Connect with Me
 
-🌐 [**Website/Bio:**](bigbr0.bio.link) *Connect with bio*
+🌐 [**Website/Bio:**](https;//bigbr0.bio.link) *Connect with bio*
 
-📧 [**Telegram:**](t.me/@MausamModz) *Connect with me*
+📧 [**Telegram:**](https://t.me/@MausamModz) *Connect with me*
 
 🧠 Projects: *Check pinned repos!*
 
