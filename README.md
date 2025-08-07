@@ -1,47 +1,103 @@
-# Hi there, I'm **MausamModz** 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="cool-coding-gif" />
+</p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/MausamModz?label=Followers&style=social)](https://github.com/MausamModz)
+<h1 align="center">Hey 👋, I'm Mausam Modz</h1>
+<p align="center">
+  🧰 Tool Maker | 🐧 Termux Dev | 🤖 Telegram Bot Crafter | 💻 Blogger Theme Builder
+</p>
+
+<p align="center">
+  <a href="https://github.com/MausamModz">
+    <img src="https://komarev.com/ghpvc/?username=MausamModz&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/MausamModz?tab=followers">
+    <img src="https://img.shields.io/github/followers/MausamModz?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/MausamModz?tab=repositories">
+    <img src="https://img.shields.io/github/languages/top/MausamModz/Tools?color=orange" alt="Top Language" />
+  </a>
+</p>
 
 ---
 
-##  About Me
-I’m a Software Developer specializing in creating powerful tooling for Android, Termux, and Telegram automation. I enjoy working with Python, Shell, JavaScript, and C++ to build both desktop and CLI-based utilities.
+## 🚀 About Me
+
+Hi, I'm **Mausam Modz** — I write scripts that break limits.  
+I love turning ideas into powerful tools.
 
 ---
 
-##  Featured Projects
+## 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MausamModz&theme=radical&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MausamModz&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=MausamModz&theme=radical" width="47%"/>
+</p>
+
+---
+
+
+## 📬 Connect with Me
+
+🌐 [**Website/Bio:**](bigbr0.bio.link) *Connect with bio*
+
+📧 [**Telegram:**](t.me/@MausamModz) *Connect with me*
+
+🧠 Projects: *Check pinned repos!*
+
+##
+
+---
+
+🙏 Support & Collaboration
+
+> 💡 If you like my work, consider giving a ⭐ to my repositories.
+🤝 I'm open to collabs — bots, tools, themes, or even experiments.
+
+---
+
+<p align="center"><i>Thanks for visiting!</i></p>
+
+
+## 🔥 My Featured Repositories
 
 | Project | Description |
 |--------|-------------|
-| **[Tools](https://github.com/MausamModz/Tools)** | A versatile toolkit including modules like PairipPatcher, VMPTool, android-ndk, dex2c, dpt-shell — multi-language utilities. |
-| **[LibDumper](https://github.com/MausamModz/LibDumper)** | A shell tool for dumping libraries (`.so`) within Termux. |
-| **[FileRener](https://github.com/MausamModz/FileRener)** | Telegram bot that enables fast file renaming and thumbnail/caption customization. |
-| **[Blog‑template](https://github.com/MausamModz/Blog-template)** | A modern Blogger theme with live demo, written in HTML, CSS, and JavaScript. |
-| **[blutter‑termux](https://github.com/MausamModz/blutter-termux)** | Flutter-based reverse-engineering tool tailored for Termux. |
-| **[TeraboxeBot](https://github.com/MausamModz/TeraboxeBot)** | Python bot designed to bypass Terabox download links. |
-| **[XMusixBot](https://github.com/MausamModz/XMusixBot)** | Telegram music bot (forked) to stream and manage audio. |
-| **[MausamModzBot](https://github.com/MausamModz/MausamModzBot)** | Personalized Telegram bot projects and experiments. |
+| 🧪 [**LibDumper**](https://github.com/MausamModz/LibDumper) | Shell script for dumping `.so` libraries easily in Termux. |
+| ✨ [**FileRener**](https://github.com/MausamModz/FileRener) | Rename Telegram files, set thumbnails/captions via bot. |
+|[**BlutterTermux**](https://github.com/MausamModz/blutter-termux) | Reverse engineering Flutter apps in Termux. |
+| 🎵 [**XMusixBot**](https://github.com/MausamModz/XMusixBot) | Telegram music bot — fork with custom UI & features. |
+| [**TeraboxeBot**](https://github.com/MausamModz/TeraboxeBot) | Python bot to bypass Terabox download restrictions. |
 
 ---
 
-##  Tech Stack & Skills
-- **Languages**: Python, Shell, JavaScript, C/C++  
-- **Platforms**: Termux, Android (via NDK/SDK), Telegram Bots  
-- **Tools & DevOps**: CLI scripting, CI/CD workflows, chatbot automation
+## 🛠️ Tools & Tech I Use
 
----
+```yaml
+Languages:
+  - Python
+  - Shell (Bash)
+  - C / C++
+  - JavaScript
 
-##  How to Connect
-- **GitHub**: [github.com/MausamModz](https://github.com/MausamModz)  
-- **Other Links**: [bigbr0.bio.link](https://bigbr0.bio.link) 6
+Platforms:
+  - Termux
+  - Telegram Bots
+  - Android Reverse Engineering
 
----
-
-##  What’s Next?
-- Building new Termux automation tools  
-- Exploring mobile and bot integrations with Android  
-- Open to creative collaborations and community-driven enhancements  
-
----
-
-### ⭐ If you find my work interesting, don’t forget to **star ⭐** your favorite repo!
+Tools:
+  - Git & GitHub
+  - FFmpeg
+  - Node.js
+  - Blogger
+  - Cloudflare Workers
