@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="cool-coding-gif" />
-</p>
-
 <h1 align="center">Hey 👋, I'm Mausam Modz</h1>
 <p align="center">
   🧰 Tool Maker | 🐧 Termux Dev | 🤖 Telegram Bot Crafter</p>
