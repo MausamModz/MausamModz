@@ -18,7 +18,9 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Mausam Modz** — I'm noob learner## 🏆 GitHub Profile Trophies
+Hi, I'm **Mausam Modz** — I'm noob learner
+
+## 🏆 GitHub Profile Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MausamModz&theme=radical&column=6&margin-w=10&margin-h=10" />
