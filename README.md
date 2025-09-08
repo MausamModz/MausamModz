@@ -51,10 +51,9 @@ Hi, I'm **Mausam Modz** — I'm noob learner
 
 ---
 
-🙏 Support & Collaboration
+🙏 Support
 
 > 💡 If you like my work, consider giving a ⭐ to my repositories.
-🤝 I'm open to collabs — bots, tools, themes, or even experiments.
 
 ---
 
