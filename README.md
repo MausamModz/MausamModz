@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 Hi, I'm **Mausam Modz** — a noob learner who loves:
-- 🐧 Termux hacking
+- 🐧 Termux Tools
 - 🤖 Telegram bot automation
 - 🔍 Reverse engineering
 - ⚙️ Building useful CLI tools
