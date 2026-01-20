@@ -100,14 +100,6 @@ Hi, I'm **Mausam Modz** — a learner who enjoys:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MausamModz/MausamModz/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🛠️ Tools & Tech
 
 <p align="center">
